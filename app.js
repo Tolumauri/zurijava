@@ -1,0 +1,1 @@
+alert('My name: AKINTAYO TOLUWALASE SOLOMON\nHeight: 5feet 11inches\nCountry: Nigeria')
